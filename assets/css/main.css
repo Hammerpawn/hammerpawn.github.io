@@ -1196,8 +1196,8 @@ pre code {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 /* line 34, node_modules/bootstrap/scss/_grid.scss */
@@ -6054,7 +6054,7 @@ input[type="button"].btn-block {
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(200, 162, 200, 0.9);
 }
 
 /* line 203, node_modules/bootstrap/scss/_navbar.scss */
@@ -13245,7 +13245,7 @@ footer {
 /* line 35, src/assets/scss/pages/_theme.scss */
 #filters li a:hover,
 #filters li a.active {
-  color: #007bff;
+  color: #C8A2C8;
 }
 
 /* Portfolio items */
@@ -13280,7 +13280,7 @@ footer {
   bottom: 0;
   left: 0;
   z-index: 1;
-  background: rgba(237, 187, 177, 0.95);
+  background: rgba(200, 162, 200, 0.95);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all .2s ease-in-out;
