@@ -13191,8 +13191,8 @@ h1, h2, h3, h4, h5, h6 {
 /* Footer */
 /* line 6, src/assets/scss/layout/_footer.scss */
 footer {
-  padding-top: 120px;
-  padding-bottom: 100px;
+  padding-top: 25px;
+  padding-bottom: 50px;
 }
 
 /* line 10, src/assets/scss/layout/_footer.scss */
@@ -13207,8 +13207,8 @@ footer {
 
 /* line 4, src/assets/scss/pages/_theme.scss */
 .intro {
-  padding-top: 160px;
-  padding-bottom: 160px;
+  padding-top: 100px;
+  padding-bottom: 125px;
 }
 
 /* Portfolio */
